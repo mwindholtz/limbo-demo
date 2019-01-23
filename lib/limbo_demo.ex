@@ -15,4 +15,8 @@ defmodule LimboDemo do
   def hello do
     :world
   end
+
+  def fib(0) do
+    true
+  end
 end
