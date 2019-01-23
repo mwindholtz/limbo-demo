@@ -17,6 +17,6 @@ defmodule LimboDemo do
   end
 
   def fib(0) do
-    true
+    0
   end
 end
