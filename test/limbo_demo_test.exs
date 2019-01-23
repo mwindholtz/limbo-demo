@@ -7,6 +7,4 @@ defmodule LimboDemoTest do
   test "greets the world" do
     assert LimboDemo.hello() == :world
   end
-
-  
 end
