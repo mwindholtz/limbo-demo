@@ -16,7 +16,5 @@ defmodule LimboDemo do
     :world
   end
 
-  def fib(0) do
-    0
-  end
+  def fib(0), do: 0
 end
