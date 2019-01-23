@@ -9,6 +9,7 @@ defmodule LimboDemoTest do
   end
 
   test "fib" do
-    assert true
+    assert LimboDemo.fib(0) == 0
+    assert LimboDemo.fib(0) == 0
   end
 end
